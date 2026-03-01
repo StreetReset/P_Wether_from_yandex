@@ -1,0 +1,33 @@
+# Виртуальное окружение
+.venv/
+venv/
+ENV/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Дистрибутивы и пакеты
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+
+# Файлы настроек IDE
+.vscode/
+.idea/
+
+# Логи и переменные окружения
+*.log
+.env
