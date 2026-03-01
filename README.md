@@ -1,0 +1,12 @@
+## P_Wether from yandex
+
+Простой скрипт на Python, который парсит текущую температуру в Москве с Яндекс.Погоды прямо в консоль.
+
+## Особенности
+- Использует `BeautifulSoup4` для парсинга HTML.
+- Цветной вывод в консоль благодаря `colorama`.
+- Имитация реального браузера через `User-Agent`.
+
+## Установка
+```bash
+   git clone https://github.com/StreetReset/P_Wether_from_yandex
