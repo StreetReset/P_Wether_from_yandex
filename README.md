@@ -9,8 +9,8 @@
 
 ## Установка
 1. Клонировать репозиторий
-```bash
+   ```bash
    git clone https://github.com/StreetReset/P_Wether_from_yandex
-2. Синхронизировать через менеджер пакетов `uv`. Все зависимости установятся.
-```bash
+2. Синхронизировать через менеджер пакетов `uv` в `Terminal`.
+   ```bash
    uv sync 
