@@ -10,3 +10,6 @@
 ## Установка
 ```bash
    git clone https://github.com/StreetReset/P_Wether_from_yandex
+Так как используется менеджер пакетов UV, достаточно открыть терминал и прописать команду
+```bash
+   uv sync 
